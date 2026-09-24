@@ -1,0 +1,8 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets (por precaución)
+.env
+.env.*
