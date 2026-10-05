@@ -62,7 +62,9 @@ Durante el desarrollo también podés usar **Live Server** u otra extensión sim
 
 ## Demo
 
-Pendiente de publicación en GitHub Pages.
+Sitio publicado en GitHub Pages:
+
+https://norbertvillegas.github.io/norbert-Pre.Entrega.Front-EndJS-global-logistics/
 
 ## Autor
 
